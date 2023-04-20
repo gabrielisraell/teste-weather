@@ -1,0 +1,1 @@
+The API used in the project was a paid API, redo it with a free API
